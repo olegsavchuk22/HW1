@@ -1,0 +1,18 @@
+*{
+    background-color:lightgrey;
+    text-align: left;
+    font-family: 'Ubuntu';
+}
+h1{
+    text-align: center;
+    color:darkslateblue;
+    font-weight: 900;
+}
+h3{
+    color:rgb(89, 126, 126);
+    font-weight: 900;
+}
+.author{
+    font-size: 12px;
+    font-style: italic;
+}

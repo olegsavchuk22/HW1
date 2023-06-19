@@ -1,0 +1,31 @@
+body{
+    font-family: 'Ubuntu';
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+code{
+    color: brown;
+    background-color: rgb(236, 236, 236);
+    font-size: 1.25em;
+}
+dfn{
+    font-style: normal;
+    font-weight: 900;
+}
+.code-text{
+    background-color: rgb(236, 236, 236);
+}
+.text{
+    text-decoration: underline dotted;
+}
+div{
+    font-size: 0.75em;
+}
+.tag{
+    color:rgb(1, 106, 148);
+    background-color: rgb(236, 236, 236);
+}

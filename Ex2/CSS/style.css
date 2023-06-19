@@ -1,0 +1,15 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    background-color: rgb(212, 212, 212);
+    margin: 3px;
+}
+.black-card{
+    color: black;
+    font-size: 40px;
+}
+.red-card{
+    color: red;
+    font-size: 40px;
+}
